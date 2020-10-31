@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Waves Gateway for Woocommerce
+ * Waves-Sanedo Gateway for Woocommerce
  *
  * Plugin Name: WNET Gateway for Woocommerce (also for other Waves assets)
  * Plugin URI: https://github.com/wavesnode/gateway-for-woocommerce/
